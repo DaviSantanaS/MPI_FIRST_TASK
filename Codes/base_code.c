@@ -1,3 +1,5 @@
+/*bag_send_recv.c ele ja tem o bag send recv*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
