@@ -1,0 +1,117 @@
+=== RELATÓRIO DE EXECUÇÃO MPI ===
+Parâmetros: 4 processos | Limite: 500000000
+=================================
+
+Arquivo: bag_bsend_irecv.c
+=========================================
+Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 178.607 segundos
+=========================================
+
+Arquivo: bag_bsend_recv.c
+=========================================
+Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 180.565 segundos
+=========================================
+
+Arquivo: bag_isend_irecv.c
+=========================================
+Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 182.338 segundos
+=========================================
+
+Arquivo: bag_isend_recv.c
+=========================================
+Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 182.080 segundos
+=========================================
+
+Arquivo: bag_rsend_irecv.c
+=========================================
+Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 181.236 segundos
+=========================================
+
+Arquivo: bag_send_irecv.c
+=========================================
+Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 181.507 segundos
+=========================================
+
+Arquivo: bag_send_recv.c
+=========================================
+Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 179.810 segundos
+=========================================
+
+Arquivo: bag_ssend_irecv.c
+=========================================
+Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 180.599 segundos
+=========================================
+
+Arquivo: bag_ssend_recv.c
+=========================================
+Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 181.868 segundos
+=========================================
+
+Arquivo: naive_bsend_irecv.c
+=========================================
+[NAIVE] Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 504.354 segundos
+=========================================
+
+Arquivo: naive_bsend_recv.c
+=========================================
+[NAIVE - CICLICO] Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 503.470 segundos
+=========================================
+
+Arquivo: naive_isend_irecv.c
+=========================================
+[NAIVE] Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 503.012 segundos
+=========================================
+
+Arquivo: naive_isend_recv.c
+=========================================
+[NAIVE - CICLICO] Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 503.439 segundos
+=========================================
+
+Arquivo: naive_rsend_irecv.c
+=========================================
+[NAIVE] Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 501.002 segundos
+=========================================
+
+Arquivo: naive_rsend_recv.c
+=========================================
+[NAIVE - CICLICO] Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 501.706 segundos
+=========================================
+
+Arquivo: naive_send_irecv.c
+=========================================
+[NAIVE - CICLICO] Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 502.694 segundos
+=========================================
+
+Arquivo: naive_send_recv.c
+=========================================
+[NAIVE - CICLICO] Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 502.135 segundos
+=========================================
+
+Arquivo: naive_ssend_irecv.c
+=========================================
+[NAIVE] Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 504.241 segundos
+=========================================
+
+Arquivo: naive_ssend_recv.c
+=========================================
+[NAIVE - CICLICO] Quant. de primos entre 1 e 500000000: 26355867
+Tempo de execucao: 502.558 segundos
+=========================================
